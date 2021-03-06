@@ -1,0 +1,8 @@
+Referencias
+
+
+- Corpo docente da faculdade impacta
+-https://docs.python.org/pt-br/3/tutorial/
+-https://flask.palletsprojects.com/en/1.1.x/
+-https://docs.mongodb.com/
+-https://docs.github.com/pt

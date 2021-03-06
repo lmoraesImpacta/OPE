@@ -1,0 +1,11 @@
+Usuarios e StackeHolders
+
+
+Usuarios:
+-Clientes da loja
+-Tecnicos
+
+
+
+-StackeHolders:
+Grupo Responsavel pelo software HardwareCompare

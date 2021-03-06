@@ -1,0 +1,37 @@
+Escopo
+
+
+No século XXI, dificilmente vemos processos ou negócios estabelecidos que não façam o uso de ao menos uma das ferramentas 
+de tecnologia. De site de buscas à controle de estoque, de controle de automação à um depósito no banco, todas essas esferas
+operam, ou fazem parte de uma rede de constantes inovações.
+
+Com todo esse aparato tecnológico, precisamos de apenas uma ferramenta para poder surfar nessa onda de novas possibilidades,
+um computador. Aqui começa um problema para os mais leigos no assunto. "Qual comprar ?" , "Por que tanta diferença de preço ?" ,
+"Só quero navegar na internet", "Um de R$ 1000,00 dá pra mim?".
+
+É bastante comum surgirem essas dúvidas em novos usuários de computadores, claro que eles podem solicitar ajuda de um vendedor
+mas muitos clientes não sentem a confiança de seguir as recomendações da maiora dos vendedores por pensarem que eles podem estar
+superestimando a necessidade real do cliente para vender um produto que é mais caro.
+
+Por essa razão, se faz necessário atender a necessidade de uma informação bem fundamentada, livre de qualquer bias e sem vinculação
+financeira direta a qualquer loja.
+
+A proposta desse projeto é solucionar a dificuldade do cliente em escolher um computador ou peças de computadores para montar um
+computador funcional e eficiente para realizar as atividades determinadas pelo próprio cliente. 
+As atividades podem ser determinadas como:
+ 1 - Navegação na internet, planilhas eletrônicas, apresentações de slides, criação de textos
+ 2 - Estudo, Assistir aulas, cursos online, serviços de streaming de vídeos/filmes
+ 3 - Desenvolvimento de software, programação, softwares de desenvolvimento
+ 4 - Arte 2d/3d, Maquete 3d, Desenvolvimento de Games
+ 5 - Jogar jogos do tipo AAA - nextGen (topo de linha)
+ 
+
+Também possuir opções de categorias como: 
+ 1 - Configurações mínimas
+ 2 - Melhor Custo benefício
+ 3 - Melhor desempenho
+ 4 - Notebook ou Desktop  
+
+
+ 
+  
